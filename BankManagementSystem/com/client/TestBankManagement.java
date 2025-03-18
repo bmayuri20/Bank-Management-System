@@ -35,7 +35,7 @@ public class TestBankManagement {
                     break;
 
             }
-            System.out.println("Enter choice");
+            System.out.println("Enter choice ...");
         }while (choice != 0);
     }
 }
