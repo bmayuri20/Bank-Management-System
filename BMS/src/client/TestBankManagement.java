@@ -13,6 +13,8 @@ public class TestBankManagement {
         int choice;
         do {
              System.out.println("Hello Customer...");
+             System.out.println("Welcome...")
+       
             System.out.println("Enter your choice....");
             System.out.println(" 1. Create Account \n 2. Display Account Details \n 3. Money Deposit \n 4. Money Withdraw \n 5. Check bank Balance \n 0 exit");
             choice = sc.nextInt();
